@@ -29,3 +29,6 @@ Technology and Project Structure :
 You can do that by using : https://start.spring.io/
 
 Need more instruction? Please follow the article:https://dzone.com/articles/dynamic-multi-tenancy-using-java-spring-boot-sprin
+
+Sunny Mishra: This community is awesome!.
+
